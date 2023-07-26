@@ -2630,7 +2630,9 @@ section {
 .lblML {
     color: #c9891c;
 }
-
+.colorrr {
+  color: #E10000;
+}
 .portfolio-details .portfolio-details-slider1 img {
     /*width: 30vh;
     height: 55vh;
