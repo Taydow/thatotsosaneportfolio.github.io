@@ -2603,7 +2603,7 @@ section {
 .boxx {
     margin: 10px;
     /*width: 420px;*/
-    width: 37.1vh;
+    width: 50vh;
     height: 290px;
     box-shadow: 2px 2px 6px grey;
     align-items: center;
@@ -2622,7 +2622,7 @@ section {
 .immg {
   /*  width: 409px;*/
    /*width: 45vh*/
-    width: 37.1vh;
+    width: 50vh;
     height: 247px;
     border-radius: 10px;
     display: flex;
